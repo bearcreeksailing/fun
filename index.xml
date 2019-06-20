@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bear Creek Sailing Association</title>
-    <link>/</link>
+    <link>https://bearcreeksailing.github.io/fun/</link>
     <description>Recent content on Bear Creek Sailing Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jun 2019 00:55:27 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bearcreeksailing.github.io/fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://bearcreeksailing.github.io/fun/about/</link>
       <pubDate>Mon, 17 Jun 2019 23:11:43 -0400</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://bearcreeksailing.github.io/fun/about/</guid>
       <description>Founding The Bear Creek Sailing Association was founded in June 2019 by the crew of the racing sailboat Morningstar.</description>
     </item>
     
     <item>
       <title>Boats</title>
-      <link>/boats/</link>
+      <link>https://bearcreeksailing.github.io/fun/boats/</link>
       <pubDate>Mon, 17 Jun 2019 22:43:44 -0400</pubDate>
       
-      <guid>/boats/</guid>
+      <guid>https://bearcreeksailing.github.io/fun/boats/</guid>
       <description> Available Boats 1-2 Adults:  ![Trinka 8]()
  ![Sandpiper 8]()
  ![Optimist Dinghy 8]()
@@ -34,10 +34,10 @@
     
     <item>
       <title>Contact Us</title>
-      <link>/contact/</link>
+      <link>https://bearcreeksailing.github.io/fun/contact/</link>
       <pubDate>Mon, 17 Jun 2019 22:16:10 -0400</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://bearcreeksailing.github.io/fun/contact/</guid>
       <description>CONTACT US YO hello people!!</description>
     </item>
     
