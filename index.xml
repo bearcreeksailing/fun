@@ -2,21 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bear Creek Sailing Association</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on Bear Creek Sailing Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jun 2019 00:55:27 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 17 Jun 2019 23:11:43 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Founding The Bear Creek Sailing Association was founded in June 2019 by the crew of the racing sailboat Morningstar.</description>
+    </item>
+    
+    <item>
+      <title>Boats</title>
+      <link>/boats/</link>
+      <pubDate>Mon, 17 Jun 2019 22:43:44 -0400</pubDate>
+      
+      <guid>/boats/</guid>
+      <description> Available Boats 1-2 Adults:  ![Trinka 8]()
+ ![Sandpiper 8]()
+ ![Optimist Dinghy 8]()
+ ![Laser 14]()  3-4 Adults:  ![Puffer 14]() ![420 14]()  </description>
+    </item>
+    
+    <item>
       <title>Contact Us</title>
-      <link>http://example.org/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 17 Jun 2019 22:16:10 -0400</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>/contact/</guid>
       <description>CONTACT US YO hello people!!</description>
     </item>
     
